@@ -1,0 +1,42 @@
+#table {
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+#orange {
+    background-color: orange;
+}
+
+#green {
+    background-color: green;
+}
+
+#olive {
+    background-color: greenyellow;
+}
+
+#red {
+    background-color: red;
+}
+
+#cyan {
+    background-color: cyan;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#purple {
+    background-color: purple;
+}
+
+#gray {
+    background-color: gray;
+}
+
+#blue {
+    background-color: blue;
+}
